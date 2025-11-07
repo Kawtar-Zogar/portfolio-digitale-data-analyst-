@@ -11,7 +11,7 @@ Ce dépôt présente une solution complète d'Intelligence d'Affaires (BI) centr
 
 ### Aperçu Détaillé du Projet (Project Overview)
 
-L'objectif principal était de concevoir, implémenter et déployer un Data Mart basé sur le **Schéma en Étoile** pour analyser les performances des ventes, la segmentation des clients et l'efficacité des produits. Les pipelines ETL ont été mis en place pour extraire, nettoyer et charger les données dans le Data Mart structuré.
+L'objectif الرئيسي كان تصميم، تطبيق ونشر Data Mart بالاعتماد على **Schéma en Étoile** لتحليل أداء المبيعات، تجزئة العملاء وفعالية المنتجات. Les pipelines ETL ont été mis en place pour extraire, nettoyer et charger les données dans le Data Mart structuré.
 
 ### Outils et Technologies Clés Utilisés:
 
