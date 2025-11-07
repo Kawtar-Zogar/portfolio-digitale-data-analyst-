@@ -11,7 +11,7 @@ Ce dépôt présente une solution complète d'Intelligence d'Affaires (BI) centr
 
 ### Aperçu Détaillé du Projet (Project Overview)
 
-L'objectif principal كان تصميم، تطبيق ونشر Data Mart بالاعتماد على **Schéma en Étoile** لتحليل أداء المبيعات، تجزئة العملاء وفعالية المنتجات. Les pipelines ETL ont été mis en place pour extraire, nettoyer et charger les données dans le Data Mart structuré.
+L'objectif principal était de concevoir, implémenter et déployer un Data Mart basé sur le **Schéma en Étoile** pour analyser les performances des ventes, la segmentation des clients et l'efficacité des produits. Les pipelines ETL ont été mis en place pour extraire, nettoyer et charger les données dans le Data Mart structuré.
 
 ### Outils et Technologies Clés Utilisés:
 
@@ -57,6 +57,6 @@ Le processus inclut des transformations spécifiques pour le nettoyage et l'int�
 
 ## 3. Reporting et Analyse des Résultats (Power BI)
 
-Le Tableau de Bord Power BI fournit une interface dynamique لـ l'exploration des données.
+Le Tableau de Bord Power BI fournit une interface dynamique pour l'exploration des données.
 
 ![Détails de l'Analyse des Ventes sur Power BI](./Ressources/Dashboard_Final_2.png)
