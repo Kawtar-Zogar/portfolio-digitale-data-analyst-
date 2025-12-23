@@ -5,7 +5,7 @@
 Ce dépôt présente une solution complète d'Intelligence d'Affaires (BI) centrée sur l'analyse des ventes. Le projet démontre le cycle de vie complet du Data Warehousing, de la modélisation à l'analyse, en utilisant **SQL Server Integration Services (SSIS)** et **Power BI**. Ce projet montre comment les données brutes sont transformées en aperçus exploitables pour la prise de décision.
 
 ---
-**[Photo de couverture du Dashboard Ventes]**
+**[couverture du Dashboard Ventes]**
 ![Aperçu du Tableau de Bord Principal](https://raw.githubusercontent.com/Kawtar-Zogar/DM_Vente_Projet_BI/main/Ressources/Dashboard_Final.png%201.png) 
 ---
 
